@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Genera Ingresos con IA y ARCodeComp</title>
+  <title>Earn Money with AI and ARCodeComp</title>
   <style>
     body {
       margin: 0;
@@ -63,32 +63,29 @@
 <body>
 
 <header>
-  <h1>¿Y si ganar dinero con IA fuera así de simple?</h1>
-  <p>Crea menús 3D para restaurantes con ARCodeComp y empieza a generar ingresos desde casa.</p>
-  <a href="https://ar-code.com" target="_blank"><button class="cta-button">Empezar Gratis Ahora</button></a>
+  <h1>What if earning money with AI was this simple?</h1>
+  <p>Create stunning 3D menus for restaurants using ARCodeComp and start earning from home.</p>
+  <a href="https://ar-code.com" target="_blank"><button class="cta-button">Start for Free</button></a>
 </header>
 
 <section class="section">
-  <h2>¿Cómo funciona?</h2>
+  <h2>How does it work?</h2>
   <div class="highlight">
-    <p><strong>1.</strong> Encuentra restaurantes con buen ticket medio.</p>
-    <p><strong>2.</strong> Ofrece transformar su carta en un <strong>menú 3D interactivo</strong>.</p>
-    <p><strong>3.</strong> Usa IA y ARCodeComp para escanear y digitalizar sus platos.</p>
-    <p><strong>4.</strong> Empaqueta y vende tu servicio desde $100 a $500.</p>
+    <p><strong>1.</strong> Find restaurants with higher-than-average customer tickets.</p>
+    <p><strong>2.</strong> Offer to transform their menu into a <strong>3D interactive experience</strong>.</p>
+    <p><strong>3.</strong> Use ARCodeComp and AI tools to scan and digitize real dishes.</p>
+    <p><strong>4.</strong> Package your work and charge between $100 and $500 per project.</p>
   </div>
 
-  <h2>¿Por qué funciona?</h2>
-  <p>Los menús 3D sorprenden a los clientes, mejoran la conversión y posicionan a los restaurantes como innovadores. Tú ganas ofreciendo este servicio, sin necesidad de saber programar.</p>
+  <h2>Why does it work?</h2>
+  <p>3D menus impress customers, boost sales, and make restaurants look modern and tech-savvy. You profit by offering this high-value service — no coding required.</p>
 
-  <h2>¿Cuánto puedes ganar?</h2>
-  <p>Muchos usuarios ya están generando más de <strong>$2,000 al mes</strong> con este modelo. Solo necesitas visión y acción.</p>
+  <h2>How much can you earn?</h2>
+  <p>Many creators are already making <strong>$2,000+ per month</strong> with this model. All you need is creativity and action.</p>
 
-  <a href="https://ar-code.com" target="_blank"><button class="cta-button">Únete Ahora - Empieza Gratis</button></a>
+  <a href="https://ar-code.com" target="_blank"><button class="cta-button">Join Now – Start for Free</button></a>
 </section>
 
 <footer>
-  © 2025 ARCodeComp & Inteligencia Creativa. Todos los derechos reservados.
+  © 2025 ARCodeComp & Creative AI Business. All rights reserved.
 </footer>
-
-</body>
-</html>
